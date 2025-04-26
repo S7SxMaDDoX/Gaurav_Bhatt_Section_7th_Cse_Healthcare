@@ -11,9 +11,9 @@ This project aims to enhance healthcare services by:
 ## Files in This Repository
 | File Name           | Description                                      |
 |---------------------|--------------------------------------------------|
-| `GAURAV_HEALTHCAIIIII.pptx` | Presentation slides explaining the project overview and features. |
+| `Healthcare_Presentation.pptx` | Presentation slides explaining the project overview and features. |
 | `registration.py`    | Python script handling patient registration and basic system operations. |
-| `video (1).mp4`      | Project demonstration video showcasing system functionality. |
+| `project_demo.mp4`      | Project demonstration video showcasing system functionality. |
 | `README.md`          | This file, providing project details and instructions. |
 
 ## Features
