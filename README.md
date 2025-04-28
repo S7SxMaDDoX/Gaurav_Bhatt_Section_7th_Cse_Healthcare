@@ -41,7 +41,7 @@ This project aims to enhance healthcare services by:
 ## Project Developer
 **Gaurav Bhatt**  
 Section 7th, Computer Science Engineering  
-📧 Contact: [Your Email Here] (Optional)
+📧 Contact: igauravvvv@gmail.com
 
 ---
 
